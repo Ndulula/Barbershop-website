@@ -1,2 +1,2 @@
-# Barbershop-website
+# barbershop-website
 Landing page for a barbershop website demo. Built with HTML, CSS, JS.
